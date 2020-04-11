@@ -105,7 +105,8 @@
 					<!-- <suiteXmlFiles> <suiteXmlFile>src/main/resources/testSuite/regression.xml</suiteXmlFile> 
 						<suiteXmlFile>testNG.xml</suiteXmlFile> </suiteXmlFiles> -->
 					<suiteXmlFiles>
-					<!-- 	<suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
+						<suiteXmlFile>src/test/resources/testSuite/regression.xml</suiteXmlFile>
+						<suiteXmlFile>testNG.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

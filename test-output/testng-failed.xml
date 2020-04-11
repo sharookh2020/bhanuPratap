@@ -6,7 +6,7 @@
       <class name="login.LoginTest">
         <methods>
           <include name="beforeClass"/>
-          <include name="loginTest" invocation-numbers="1"/>
+          <include name="loginTest"/>
           <include name="closeBrowser"/>
           <include name="launchBrowser"/>
         </methods>
